@@ -1,6 +1,4 @@
 # Ticketee
----
-## Features
   - Tracks tickets (of course) and groups them into projects 
   - Provides a way to restrict users to certain projects 
   - Allows users to upload files to tickets
