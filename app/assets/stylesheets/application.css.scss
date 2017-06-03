@@ -3,6 +3,14 @@
 @import "font-awesome";
 @import "projects";
 
+body {
+  padding-top: 70px;
+}
+
+form {
+  max-width: 500px;
+}
+
 .page-header {
   position: relative;
   padding-bottom: 0px;
@@ -77,6 +85,3 @@ header {
   @extend .alert-danger;
 }
 
-form {
-  max-width: 500px;
-}
